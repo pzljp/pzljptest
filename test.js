@@ -5,5 +5,6 @@ function drag()
    var 3;//这是工作区
    var obj = document.getElementById(id)
    obj.onmousedown = function(){
+        var 4;
    }
 }
