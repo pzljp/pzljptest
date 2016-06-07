@@ -1,4 +1,4 @@
-function drag()
+function drag(id)
 {  var obj;
    var aaa;
    var 2;//ÕâÊÇÔİ´æÇø
