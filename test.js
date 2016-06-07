@@ -7,5 +7,6 @@ function drag(id)
    obj.onmousedown = function(){
         var 4;
         var 5;
+        var 6;
    }
 }
