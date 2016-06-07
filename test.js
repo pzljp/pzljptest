@@ -8,5 +8,7 @@ function drag(id)
         var 4;
         var 5;
         var 6;
+        var 7;
+        var 8;
    }
 }
