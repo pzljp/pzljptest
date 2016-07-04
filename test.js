@@ -1,8 +1,8 @@
 function drag(id)
 {  var obj;
    var aaa;
-   var 2;//ÕâÊÇÔİ´æÇø
-   var 3;//ÕâÊÇ¹¤×÷Çø
+   var 2;//è¿™æ˜¯æš‚å­˜åŒº
+   var 3;//è¿™æ˜¯å·¥ä½œåŒº
    var 4;
    var obj = document.getElementById(id)
    obj.onmousedown = function(){
